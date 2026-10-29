@@ -1,0 +1,19 @@
+# QuickQR robots.txt - SEO Optimization
+User-agent: *
+Allow: /
+
+# Directives for major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+# Sitemap location
+Sitemap: https://quickqr.app/sitemap.xml

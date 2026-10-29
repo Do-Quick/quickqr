@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <rect width="100" height="100" rx="24" fill="#0f172a"/>
+  <!-- Corner 1 -->
+  <rect x="14" y="14" width="30" height="30" rx="8" stroke="#22c55e" stroke-width="6"/>
+  <rect x="23" y="23" width="12" height="12" rx="4" fill="#22c55e"/>
+  <!-- Corner 2 -->
+  <rect x="56" y="14" width="30" height="30" rx="8" stroke="#6366f1" stroke-width="6"/>
+  <rect x="65" y="23" width="12" height="12" rx="4" fill="#6366f1"/>
+  <!-- Corner 3 -->
+  <rect x="14" y="56" width="30" height="30" rx="8" stroke="#3b82f6" stroke-width="6"/>
+  <rect x="23" y="65" width="12" height="12" rx="4" fill="#3b82f6"/>
+  <!-- Modern Center Dots -->
+  <circle cx="62" cy="62" r="5" fill="#22c55e"/>
+  <circle cx="78" cy="62" r="5" fill="#a855f7"/>
+  <circle cx="62" cy="78" r="5" fill="#ec4899"/>
+  <circle cx="78" cy="78" r="6" fill="#06b6d4"/>
+</svg>
